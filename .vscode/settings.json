@@ -1,0 +1,6 @@
+{
+    "nim.buildOnSave": false,
+    "nim.buildCommand": "c",
+    "nim.project": ["all_knowledge.nim"],
+    "nim.licenseString": "# Copyright 2026.\n\n"
+}
